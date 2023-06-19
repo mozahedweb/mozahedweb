@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/D5616AQGwlXwqVMjRng/profile-displaybackgroundimage-shrink_350_1400/0/1684869461798?e=1692835200&v=beta&t=NHcWShF8augRITLO8cSe9A2caUEL5tDyfzRibBApguk)
 ## I'm Mozahedul Hoque
 ### Web Developer & Shopify Expert
-![Web Developer & Shopify Expert]
+![Web Developer & Shopify Expert](https://media.licdn.com/dms/image/D5616AQGwlXwqVMjRng/profile-displaybackgroundimage-shrink_350_1400/0/1684869461798?e=1692835200&v=beta&t=NHcWShF8augRITLO8cSe9A2caUEL5tDyfzRibBApguk)
 
 I'm experienced and passionate e-commerce designer, who offers you a wide range of professional services. A full-stack designer focused on Shopify, with depth knowledge of web designing, Shopify platform, and all e-commerce platforms. I do Shopify Store Design, Development, and Customizing Shopify Websites, as well as developing Shopify websites from PSD, XD and Figma. I can help you with every step of creating and growing a professional eCommerce business or a Shopify store. 
 Things I love: 
